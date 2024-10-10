@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93779428981",
+    "project_id": "fire-log-23c1c",
+    "storage_bucket": "fire-log-23c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93779428981:android:5ea607deef78f59083da3c",
+        "android_client_info": {
+          "package_name": "com.example.add_cart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKeoqZkeG_f6vXj1WLkdtkIazI2dmFj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
